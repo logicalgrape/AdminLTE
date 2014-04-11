@@ -1,0 +1,29 @@
+{
+  "name": "admin-lte",
+  "version": "1.2",
+  "homepage": "https://github.com/almasaeed2010/AdminLTE",
+  "authors": [
+    "Abdullah Almsaeed <support@almsaeedstudio.com>"
+  ],
+  "keywords": [
+    "admin",
+    "theme",
+    "template",
+    "bootstrap",
+    "responsive"
+  ],
+  "description": "AdminLTE is a fully responsive admin template. Based on Bootstrap 3 framework.",
+  "license": "MIT",
+  "ignore": [
+    "ajax",
+    "pages",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almasaeed2010/AdminLTE.git"
+  }
+}
